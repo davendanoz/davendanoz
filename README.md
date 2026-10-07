@@ -1,24 +1,35 @@
 # Daniel Alejandro Avendaño Zúñiga
 
+
 ### Ingeniería eléctrica · Automatización industrial · Informática y redes IT/OT
+
 
 Ingeniero en Electricidad y Automatización Industrial, **SEC Clase A**, con trayectoria que integra infraestructura informática, telecomunicaciones, proyectos eléctricos y continuidad operacional. Santiago, Chile.
 
+
 ## Sobre mí
+
 
 Combino experiencia de terreno, coordinación de equipos y documentación técnica para abordar sistemas eléctricos, automatización e infraestructura tecnológica. Mi trabajo se orienta a la seguridad, el cumplimiento técnico y la continuidad de las operaciones.
 
+
 ## Trayectoria profesional
+
 
 **Informática y telecomunicaciones | 1999–2015**
 
+
 Experiencia en soporte informático, administración de redes, mantenimiento de equipos y servicios de telecomunicaciones. Incluye administración de redes y soporte para establecimientos educacionales, soporte remoto de nivel 3 para técnicos en España y coordinación de proyectos de telecomunicaciones y redes de datos. Esta base complementa mi trabajo en integración de sistemas y redes IT/OT.
+
 
 **Electricidad, automatización y operaciones técnicas**
 
+
 Proyectos eléctricos BT/MT, inspección técnica de obras (ITO), supervisión de especialidades, mantenimiento preventivo y correctivo, coordinación de contratistas y control de calidad. Experiencia en infraestructura industrial, data centers, retail, edificios y recintos de salud.
 
+
 ## Áreas de especialidad
+
 
 | Área | Experiencia y herramientas |
 | --- | --- |
@@ -29,7 +40,22 @@ Proyectos eléctricos BT/MT, inspección técnica de obras (ITO), supervisión d
 | Mantención y operaciones | Planificación, continuidad operacional, supervisión de equipos y contratistas |
 | Gestión de proyectos | ITO, documentación técnica, MS Project, Excel y coordinación de especialidades |
 
+
+## Programación, bases de datos y sistemas
+
+Manejo de nivel **intermedio–avanzado** en las siguientes tecnologías y herramientas:
+
+| Categoría | Tecnologías y herramientas |
+| --- | --- |
+| Lenguajes de programación | C++, Python, COBOL y Pascal |
+| Bases de datos | MariaDB, MySQL y PostgreSQL |
+| Entornos de desarrollo | Visual Studio Code y Visual Studio |
+| Plataformas y sistemas | IBM AS/400 y DOS |
+
+Estos conocimientos complementan mi trayectoria informática y mi enfoque en automatización e integración IT/OT.
+
 ## Experiencia destacada
+
 
 - Supervisión eléctrica e ITO en data center ODATA, Lampa.
 - Proyectos eléctricos y automatización en entornos industriales, incluyendo Goodyear Chile y Plásticos Fosco.
@@ -37,14 +63,20 @@ Proyectos eléctricos BT/MT, inspección técnica de obras (ITO), supervisión d
 - Inspección y coordinación técnica de proyectos de retail con DFV Ingeniería y Gestión y Grupo Nexo.
 - Proyectos eléctricos, sistemas de control y mantenimiento a través de AMPLEX.
 
+
 ## Formación
+
 
 - Ingeniería en Electricidad y Automatización Industrial — Duoc UC.
 - Ingeniería de Ejecución en Informática y Telecomunicaciones — INACAP, **egresado**.
 - Formación complementaria en mantenimiento de data centers, Linux, virtualización, redes y herramientas informáticas.
 
+
 ## Enfoque profesional
+
 
 Jefatura de Mantención · Ingeniería y Proyectos Eléctricos · ITO · Operaciones Técnicas · Automatización e integración IT/OT.
 
+
 Este perfil reúne mi trayectoria y áreas de trabajo. Los repositorios técnicos se incorporarán con documentación y material que pueda compartir públicamente.
+
